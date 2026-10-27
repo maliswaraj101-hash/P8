@@ -1,0 +1,27 @@
+Name of the Company: ABC Pvt Ltd
+Balance Sheet as at 31-03-2025
+
+I. EQUITY AND LIABILITIES
+(1) Shareholders' funds
+(a) Share capital: 10,00,00,000
+(b) Reserves and surplus: 5,00,00,000
+(2) Share application money pending allotment: 0
+(3) Non-current liabilities
+(a) Long-term borrowings: 2,00,00,000
+
+II. ASSETS
+(1) Non-current assets
+(a) Property, Plant and Equipment
+(i) Tangible assets: 12,00,00,000
+
+(2) Current assets
+(a) Current investments: 50,00,000
+(b) Inventories: 25,00,000
+(c) Trade receivables: 1,00,00,000
+(d) Cash and cash equivalents: 15,00,000
+
+Total Assets: 13,90,00,000
+
+Notes:
+- Figures rounded to nearest lakhs
+- No default or inconsistency detected

@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-text-splitters
+langchain-groq
+faiss-cpu
+youtube-transcript-api
+huggingface_hub

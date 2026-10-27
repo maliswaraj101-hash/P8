@@ -1,0 +1,50 @@
+[
+
+  [
+    {"categoryName": "jawOpen", "score": 0.0},
+    {"categoryName": "mouthOpen", "score": 0.0},
+    {"categoryName": "mouthPout", "score": 0.0}
+  ],
+
+  [{"categoryName": "jawOpen", "score": 0.1}, {"categoryName": "mouthOpen", "score": 0.1}],
+  [{"categoryName": "jawOpen", "score": 0.3}, {"categoryName": "mouthOpen", "score": 0.3}],
+  [{"categoryName": "jawOpen", "score": 0.5}, {"categoryName": "mouthOpen", "score": 0.5}],
+  [{"categoryName": "jawOpen", "score": 0.6}, {"categoryName": "mouthOpen", "score": 0.6}],
+  
+  
+  [{"categoryName": "jawOpen", "score": 0.7}, {"categoryName": "mouthOpen", "score": 0.7}],
+  [{"categoryName": "jawOpen", "score": 0.8}, {"categoryName": "mouthOpen", "score": 0.8}],
+  [{"categoryName": "jawOpen", "score": 0.75}, {"categoryName": "mouthOpen", "score": 0.75}],
+  [{"categoryName": "jawOpen", "score": 0.7}, {"categoryName": "mouthOpen", "score": 0.7}],
+  [{"categoryName": "jawOpen", "score": 0.6}, {"categoryName": "mouthOpen", "score": 0.6}],
+  [{"categoryName": "jawOpen", "score": 0.5}, {"categoryName": "mouthOpen", "score": 0.5}],
+  [{"categoryName": "jawOpen", "score": 0.4}, {"categoryName": "mouthOpen", "score": 0.4}],
+  [{"categoryName": "jawOpen", "score": 0.5}, {"categoryName": "mouthOpen", "score": 0.5}],
+  [{"categoryName": "jawOpen", "score": 0.6}, {"categoryName": "mouthOpen", "score": 0.6}],
+  [{"categoryName": "jawOpen", "score": 0.7}, {"categoryName": "mouthOpen", "score": 0.7}],
+
+
+  [{"categoryName": "jawOpen", "score": 0.4}, {"categoryName": "mouthPout", "score": 0.3}],
+  [{"categoryName": "jawOpen", "score": 0.2}, {"categoryName": "mouthPout", "score": 0.5}],
+  [{"categoryName": "jawOpen", "score": 0.1}, {"categoryName": "mouthPout", "score": 0.4}],
+  [{"categoryName": "jawOpen", "score": 0.1}, {"categoryName": "mouthPout", "score": 0.3}],
+  [{"categoryName": "jawOpen", "score": 0.2}, {"categoryName": "mouthPout", "score": 0.2}],
+
+
+  [{"categoryName": "jawOpen", "score": 0.15}, {"categoryName": "mouthOpen", "score": 0.15}],
+  [{"categoryName": "jawOpen", "score": 0.1}],
+  [{"categoryName": "jawOpen", "score": 0.05}],
+  [{"categoryName": "jawOpen", "score": 0.0}],
+  [{"categoryName": "jawOpen", "score": 0.0}],
+  [{"categoryName": "jawOpen", "score": 0.0}],
+  [{"categoryName": "jawOpen", "score": 0.0}],
+  [{"categoryName": "jawOpen", "score": 0.0}],
+  [{"categoryName": "jawOpen", "score": 0.0}],
+
+  
+  [
+    {"categoryName": "jawOpen", "score": 0.0},
+    {"categoryName": "mouthOpen", "score": 0.0},
+    {"categoryName": "mouthPout", "score": 0.0}
+  ]
+]

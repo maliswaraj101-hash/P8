@@ -1,0 +1,28 @@
+model:
+  name: "mistral"
+  temperature: 0.1
+  max_tokens: 2000
+
+# NEW: RAG Configuration
+rag:
+  embedding_model: "all-MiniLM-L6-v2"
+  vector_db_path: "./data/knowledge_base/embeddings"
+  max_context_documents: 5
+  similarity_threshold: 0.7
+  knowledge_base:
+    schedule3_regulations: "./data/knowledge_base/schedule3_rules/"
+    audit_cases: "./data/knowledge_base/audit_cases/"
+    companies_act: "./data/knowledge_base/companies_act/"
+
+audit_rules:
+  balance_tolerance: 1.0
+  rounding_threshold: 100000
+  mandatory_sections:
+    - "equity_liabilities"
+    - "assets"
+
+output:
+  format: "json"
+  include_raw_analysis: true
+  include_rag_sources: true  # NEW: Include RAG source citations
+  generate_summary: true
